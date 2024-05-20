@@ -1,17 +1,1 @@
-# Ignore all .a files
-*.a
-
-# But track lib.a, even though .a files are ignored
-!lib.a
-
-# Only ignore the TODO file in the current directory, not subdir/TODO
-/TODO
-
-# Ignore all files in any directory named build
-build/
-
-# Ignore doc/notes.txt, but not doc/server/arch.txt
-doc/*.txt
-
-# Ignore all .pdf files in the doc/ directory and any of its subdirectories
-doc/**/*.pdf
+404: Not Found
