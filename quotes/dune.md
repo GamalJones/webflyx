@@ -11,3 +11,4 @@ Fear is the mind-killer.
 >>>>>>> Stashed changes
 A: Some content for A
 B: Some content for B
+C: Some content for C
