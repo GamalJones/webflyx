@@ -9,3 +9,4 @@ Fear is the mind-killer.
 =======
 >>>>>>> 5f57fe7 (# This is a combination of 2 commits.)
 >>>>>>> Stashed changes
+A: Some content for A
